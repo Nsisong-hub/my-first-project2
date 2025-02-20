@@ -1,0 +1,5 @@
+My programming goals:
+- Learn Git and GitHub
+- Master Python
+- Build cloud-based applications
+
