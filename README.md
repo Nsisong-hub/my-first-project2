@@ -114,5 +114,23 @@ git push origin master
 
 
 
+## Conclusion
+
+This assignment covers key Git operations such as:
+
+* Repository initialization
+
+* File creation and tracking
+
+* Handling remote repositories
+
+* Resolving push conflicts with rebase
+
+* Cloning repositories
+
+This provides a strong foundation for version control using Git and GitHub.
+
+
+
 
 
